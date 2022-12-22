@@ -1,5 +1,7 @@
 # Spotminimini
 
+This project was moved to [MRL organization account](https://github.com/NcuMathRoboticsLab/spotminimini) now.
+
 ###### tags: `mrl` `robot` `tutorail`
 
 ## 事前準備
